@@ -1,14 +1,14 @@
-📊 #End-to-End Data Analytics Project
+📊 # End-to-End Data Analytics Project
 
 Python · SQL · Power BI
 
-##📌 Overview
+📌 ## Overview
 
 This project demonstrates a complete data analytics workflow — from raw data to business insights.
 It includes data cleaning, SQL analysis, visualization, and reporting for customer shopping patterns.
 
-##🚀 Project Steps
-1️⃣ ###Data Preparation & EDA (Python)
+🚀 ## Project Steps
+1️⃣ ### Data Preparation & EDA (Python)
 
 Cleaned the raw dataset using Pandas
 
@@ -18,7 +18,7 @@ Performed exploratory analysis on customer behavior
 
 Created visual insights (spending trends, frequency, categories)
 
-2️⃣ SQL Analysis (PostgreSQL + pgAdmin)
+2️⃣ ## SQL Analysis (PostgreSQL + pgAdmin)
 
 Imported cleaned data into SQL tables
 
