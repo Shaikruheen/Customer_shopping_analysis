@@ -1,63 +1,123 @@
-# 📊 End-to-End Data Analytics Project
+# 📊 Data Analytics Project – End-to-End Workflow
+## 🔍 Overview
 
-Python · SQL · Power BI
+This project demonstrates a complete data analytics lifecycle, from loading and preparing data to generating business insights.
+It covers Python-based EDA, SQL analysis, Power BI dashboards, and a final report & presentation created using Gamma.
 
-## 📌 Overview
+The goal is to showcase the ability to transform raw data into meaningful, actionable insights.
 
-This project demonstrates a complete data analytics workflow — from raw data to business insights.
-It includes data cleaning, SQL analysis, visualization, and reporting for customer shopping patterns.
+## 📁 Dataset
 
-## 🚀 Project Steps
-### 1️⃣ Data Preparation & EDA (Python)
+Name: Customer_Shopping_Behavior
 
-Cleaned the raw dataset using Pandas
+Format: CSV
 
-Handled missing values, outliers, and data types
+Description: Contains customer purchase information such as demographics, product category, price, quantity, invoice details, and transaction patterns.
 
-Performed exploratory analysis on customer behavior
+## 🛠️ Tools & Technologies
 
-Created visual insights (spending trends, frequency, categories)
+Python (Pandas, NumPy, Matplotlib/Seaborn)
 
-### 2️⃣ SQL Analysis (PostgreSQL + pgAdmin)
+Jupyter Notebook
 
-Imported cleaned data into SQL tables
+SQL (PostgreSQL / MySQL / SQL Server)
 
-Executed business queries:
+Power BI
+
+Gamma (for PPT creation)
+
+GitHub (version control & documentation)
+
+## 🧹 Step 1: Data Cleaning & Preparation (Python)
+
+Loaded dataset using Pandas
+
+Handled missing values
+
+Removed duplicates
+
+Converted data types
+
+Created new derived columns
+
+Exported cleaned dataset for SQL & Power BI
+
+## 📊 Step 2: Exploratory Data Analysis (EDA)
+
+Performed detailed analysis using Python to understand:
+
+Customer behavior and spending patterns
+
+Product performance
+
+Sales trends
+
+Outliers and distributions
+
+Correlations
+
+## 🗄️ Step 3: SQL Analysis
+
+Imported cleaned dataset into a SQL database (PostgreSQL) and ran queries to analyze:
+
+Customer loyalty
+
+Frequent buyers
+
+Top-selling categories
+
+Revenue contribution
+
+Monthly/Yearly performance
 
 Customer segmentation
+SQL was used to validate insights generated in Python.
 
-Average spend analysis
+## 📊 Step 4: Power BI Dashboard
 
-Monthly/seasonal trends
+Created an interactive Power BI dashboard including:
 
-Category performance
+KPI Cards (Total Sales, Total Customers, Avg Spend)
 
-Loyal customer identification
+Sales by Country/City
 
-### 3️⃣ Dashboard (Power BI)
+Top 10 Product Categories
 
-Built an interactive dashboard showing:
+Payment Method Analysis
 
-Revenue trends
+Monthly Sales Trends
 
-High-value customers
+Customer Segmentation
+The dashboard provides a quick overview of performance metrics.
 
-Age & gender insights
+## 📝 Step 5: Final Report
 
-Category performance
+A summary report covering:
 
-Shopping frequency patterns
+Business problem
 
-### 4️⃣ Final Deliverables
+Data preparation
 
-Power BI Dashboard
+EDA findings
 
-SQL Query Scripts
+SQL insights
 
-Jupyter Notebook (Data Prep + EDA)
+Dashboard explanation
 
-Project Report & Presentation
+Key recommendations
 
-### 🛠 Tools Used
+Conclusion
 
-Python, Pandas, NumPy, PostgreSQL, SQL, Power BI, Jupyter Notebook
+## 🎤 Step 6: Presentation(PPT)
+
+Prepared a clean, minimal, professional PPT in Gamma, highlighting:
+
+Project introduction
+
+Methodology
+
+Visual insights
+
+Dashboard snapshots
+
+Key takeaways
